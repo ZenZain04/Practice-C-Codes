@@ -1,17 +1,9 @@
 # ninja log v5
-6	515	7394016624918693	CMakeFiles/C_Practice.dir/main.c.obj	23de683f83edb1ad
-519	1003	7394016629767129	C_Practice.exe	9dc993a95a5a28c7
-12	130	7394017063586920	CMakeFiles/C_Practice.dir/main.c.obj	23de683f83edb1ad
-131	249	7394017064744892	C_Practice.exe	9dc993a95a5a28c7
-8	153	7394019302035378	CMakeFiles/C_Practice.dir/main.c.obj	23de683f83edb1ad
-154	461	7394019305083973	C_Practice.exe	9dc993a95a5a28c7
-11	1046	7394665653236315	CMakeFiles/C_Practice.dir/main.c.obj	23de683f83edb1ad
-1047	1657	7394665659305226	C_Practice.exe	9dc993a95a5a28c7
-11	119	7394666179272679	CMakeFiles/C_Practice.dir/main.c.obj	23de683f83edb1ad
-120	251	7394666180549261	C_Practice.exe	9dc993a95a5a28c7
-8	117	7394667565387601	CMakeFiles/C_Practice.dir/main.c.obj	23de683f83edb1ad
-118	315	7394667567396470	C_Practice.exe	9dc993a95a5a28c7
-14	676	7394705972203109	CMakeFiles/C_Practice.dir/main.c.obj	23de683f83edb1ad
-677	1294	7394705978346664	C_Practice.exe	9dc993a95a5a28c7
 8	233	7394717043481132	CMakeFiles/C_Practice.dir/main.c.obj	23de683f83edb1ad
-234	370	7394717044907296	C_Practice.exe	9dc993a95a5a28c7
+3	161	7394821750063221	CMakeFiles/C_Practice.dir/Array_Search_and_Sort.c.obj	bacb3fb337a3fa86
+9	95	7394824666386531	CMakeFiles/C_Practice.dir/matrix.c.obj	dd45bdb890d71d1
+5	358	7394825133581523	build.ninja	8d51b4a931af8ee
+4	159	7394825187561219	CMakeFiles/Matrix.dir/matrix.c.obj	6fc7e6340b48e67f
+161	331	7394825189242886	Matrix.exe	6520840e0e03d642
+8	194	7394842727039466	CMakeFiles/Matrix.dir/matrix.c.obj	6fc7e6340b48e67f
+194	322	7394842728281574	Matrix.exe	6520840e0e03d642

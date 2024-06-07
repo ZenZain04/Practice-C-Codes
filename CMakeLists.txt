@@ -3,4 +3,8 @@ project(C_Practice C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(C_Practice "Array Search and Sort.c")
+# Add executable for Array Search and Sort
+add_executable(Array_Search_and_Sort "Array Search and Sort.c")
+
+# Add executable for Matrix
+add_executable(Matrix "matrix.c")
