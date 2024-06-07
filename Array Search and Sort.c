@@ -11,7 +11,6 @@ int main(void) {
 
     printf("Enter the number of elements :  ");
     scanf("%d", &length);
-git init
 
     int array[length];
 
